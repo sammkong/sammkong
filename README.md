@@ -1,7 +1,10 @@
 ## 👋 About Me
 
-Interested in **AI, LLMs, and AI Agents**
-Exploring **practical AI systems and intelligent automation**
+Senior in Computer Science at Gachon University.
+Interested in **AI**, **LLMs**, **AI Agents**, and **NLP**.
+
+AI Intern at iNES Lab (Gachon University)
+KANANA 429 AI Ambassador.
 
 ---
 
