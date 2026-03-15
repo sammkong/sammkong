@@ -41,7 +41,7 @@ Interested in **AI**, **LLMs**, **AI Agents**, and **NLP**.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammkong\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langsa598-prog\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammkong\&layout=compact)
 
 ---
 
