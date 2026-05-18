@@ -4,7 +4,6 @@ Senior in Computer Science at Gachon University.
 
 Interested in **Computer Vision**, **LLMs**, **AI Agents**, and **NLP**.
 
----
 
 ### Experienced in
 
@@ -12,7 +11,6 @@ Interested in **Computer Vision**, **LLMs**, **AI Agents**, and **NLP**.
 - MLOps & AI Serving
 - AWS-based AI Infrastructure
 
----
 
 ### Activities
 
