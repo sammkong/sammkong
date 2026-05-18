@@ -4,10 +4,17 @@ Senior in Computer Science at Gachon University.
 
 Interested in **Computer Vision**, **LLMs**, **AI Agents**, and **NLP**.
 
-Experienced in :
+---
+
+### Experienced in
+
 - Backend Development
 - MLOps & AI Serving
 - AWS-based AI Infrastructure
+
+---
+
+### Activities
 
 - AI Intern at iNES Lab (Gachon University)
 - Kakao AI Ambassador (2026.03 ~ 2026.08)
