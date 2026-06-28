@@ -12,11 +12,12 @@
 
 ## 🙋‍♀️ 소개
 
-가천대학교 컴퓨터공학과에 재학 중입니다.  
-AI Agent를 공부하는 것을 넘어,  
-사용자에게 실제로 도움이 되는 AI 서비스를 만드는 데 관심이 있습니다.
+🎓 <b>Computer Science @ Gachon University</b><br><br>
 
-특히 신뢰성과 사용자 경험을 고려한 AI 서비스 개발을 지향합니다.
+AI Agent를 공부하는 것을 넘어,<br>
+사용자에게 실제로 도움이 되는 <b>AI 서비스</b>를 만드는 데 관심이 있습니다.<br><br>
+
+특히 <b>신뢰성 (Reliability)</b>과 <b>사용자 경험 (UX)</b>을 고려한 AI 서비스 개발을 지향합니다.
 
 <br>
 
@@ -46,49 +47,45 @@ AI Agent를 공부하는 것을 넘어,
 
 ### 📧 [Maily](https://github.com/sammkong/AI)
 
-업무 이메일을 자동으로 분류하고, 요약·일정 추출·답장 초안을 생성하는 AI Agent 서비스
+> 업무 이메일을 자동으로 분류하고, 요약·일정 추출·답장 초안을 생성하는 <b>AI Agent 서비스</b>
 
-**Role**  
-AI 서버 개발 · SBERT 기반 계층형 분류 모델 설계 · RabbitMQ 비동기 처리 · MLOps 구축
-
-**Learned**  
-LLM과 전통 ML 모델의 역할을 분리하여 더욱 안정적인 AI 서비스를 설계하는 방법을 배웠습니다.
+| | |
+|:--|:--|
+| 🛠 <b>Role</b> | AI 서버 개발 · <b>SBERT 기반 계층형 분류</b> · <b>RabbitMQ 비동기 처리</b> · <b>MLOps 구축</b> |
+| 📚 <b>Learned</b> | LLM과 전통 ML 모델의 역할을 분리하여 <b>안정적인 AI 서비스</b>를 설계하는 방법을 배웠습니다. |
 
 ---
 
 ### 🛡️ [SafetyScanner MCP](https://github.com/sammkong/safetyscanner-mcp)
 
-알바 공고와 거래글의 위험 신호를 분석하여 근거와 함께 설명하는 MCP 서버
+> 알바 공고와 거래글의 위험 신호를 분석하여 근거와 함께 설명하는 <b>MCP 서버</b>
 
-**Role**  
-MCP 서버 기획 및 개발 · 위험 패턴 설계 · PlayMCP 등록
-
-**Learned**  
-AI Agent는 결과뿐 아니라 판단 근거를 함께 제공해야 사용자 신뢰를 높일 수 있다는 점을 배웠습니다.
+| | |
+|:--|:--|
+| 🛠 <b>Role</b> | <b>MCP 서버</b> 기획 및 개발 · <b>위험 패턴 설계</b> · <b>PlayMCP 등록</b> |
+| 📚 <b>Learned</b> | AI Agent는 결과뿐 아니라 <b>판단 근거를 설명하는 구조</b>가 사용자 신뢰를 높인다는 점을 배웠습니다. |
 
 ---
 
 ### 📊 [Operational Insight Dashboard](https://github.com/sammkong/operational-insight-dashboard)
 
-CS 운영 데이터를 분석하여 운영 리스크를 정량화하고 개선 우선순위를 제안하는 대시보드
+> CS 운영 데이터를 분석하여 <b>운영 리스크를 정량화</b>하고 개선 우선순위를 제안하는 대시보드
 
-**Role**  
-데이터 분석 · Risk Score 설계 · Streamlit 대시보드 개발
-
-**Learned**  
-단일 KPI보다 다양한 운영 지표를 함께 분석해야 실제 문제를 정확히 파악할 수 있다는 점을 배웠습니다.
+| | |
+|:--|:--|
+| 🛠 <b>Role</b> | <b>데이터 분석</b> · <b>Risk Score 설계</b> · <b>Streamlit 대시보드 개발</b> |
+| 📚 <b>Learned</b> | 단일 KPI보다 <b>여러 운영 지표를 함께 분석</b>해야 실제 문제를 정확히 파악할 수 있다는 점을 배웠습니다. |
 
 ---
 
 ### 🐾 [Kanana Pet Interpreter](https://github.com/sammkong/Kanana-Pet-Interpreter)
 
-반려동물 사진을 기반으로 감정을 해석하고 페르소나 응답을 생성하는 멀티모달 AI 서비스
+> 반려동물 사진을 기반으로 감정을 해석하고 페르소나 응답을 생성하는 <b>멀티모달 AI 서비스</b>
 
-**Role**  
-Kanana-o API 연동 · 프롬프트 엔지니어링 · 페르소나 후처리 로직 구현
-
-**Learned**  
-모델 성능뿐 아니라 자연스럽고 몰입감 있는 사용자 경험이 AI 서비스의 중요한 가치임을 배웠습니다.
+| | |
+|:--|:--|
+| 🛠 <b>Role</b> | <b>Kanana-o API 연동</b> · <b>프롬프트 엔지니어링</b> · <b>페르소나 후처리 로직 구현</b> |
+| 📚 <b>Learned</b> | 모델 성능뿐 아니라 <b>자연스럽고 몰입감 있는 사용자 경험</b>이 AI 서비스의 중요한 가치임을 배웠습니다. |
 
 <br>
 
