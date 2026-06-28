@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&pause=900&color=F778BA&center=true&vCenter=true&width=900&height=130&lines=Welcome+to+Minji%27s+GitHub;Multi-Modal+%2F+LLM+%2F+AI+Agent" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&pause=900&color=F778BA&center=true&vCenter=true&width=900&height=130&lines=Welcome+to+MJ%27s+GitHub;AI+Agent+%26+LLM" alt="typing banner" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=sammkong&label=Profile%20Views&color=F778BA&style=flat-square)
+![Followers](https://img.shields.io/github/followers/sammkong?label=Followers&style=flat-square&color=A855F7&labelColor=0D1117)
 
 ## AI Agent를 만들고, 더 안전한 서비스를 고민합니다
 
-**Multi-Modal · LLM · AI Agent**
+**AI Agent · LLM**
 
 </div>
 
@@ -12,20 +15,20 @@
 
 ## 🙋‍♀️ 소개
 
-가천대학교 컴퓨터공학과에 재학 중이에요.  
-LLM과 AI Agent를 활용해 **신뢰할 수 있는 서비스**를 만드는 데 관심이 많습니다.
+가천대학교 컴퓨터공학과에 재학 중입니다.  
+AI Agent를 공부하는 것을 넘어, 사용자 입장에서 더 잘 활용될 수 있도록 **신뢰를 바탕으로 한 서비스**를 고민합니다.  
+여러 번의 서비스 기획과 개발을 거치며, 이 부분을 가장 중요하게 생각하게 됐습니다.  
+Multi-Modal은 앞으로 더 깊이 공부해보고 싶은 분야입니다.
 
 <br>
 
 ## 💼 경력
 
-**당근 (Daangn) — Local Jobs Trust & Safety Manager**  
+**당근 (Daangn) — Local Jobs Trust & Safety Manager (Intern)**  
 `2026.07 ~ 현재`  
-로컬잡스(당근알바)에서 사용자 보호와 사기·위험 패턴 대응을 담당합니다.
 
 **iNES Lab (가천대학교) — AI Research Intern**  
-`2026.01 ~ 2026.06`  
-LLM Agent가 복잡한 작업에서 실패하는 패턴을 연구했습니다.
+`2026.01 ~ 2026.06`
 
 <br>
 
@@ -45,10 +48,9 @@ LLM Agent가 복잡한 작업에서 실패하는 패턴을 연구했습니다.
 
 **Focus**
 
-![Multi-Modal](https://img.shields.io/badge/Multi--Modal-F778BA?style=flat-square&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-A855F7?style=flat-square)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-F778BA?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-A855F7?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-A855F7?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-F778BA?style=flat-square)
 
 **Languages & Tools**
 
