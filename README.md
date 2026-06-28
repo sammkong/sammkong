@@ -22,7 +22,7 @@ Multi-Modal은 앞으로 더 깊이 공부해보고 싶은 분야입니다.
 ## 💼 경력
 
 **당근 (Daangn) — Local Jobs Trust & Safety Manager (Intern)**  
-`2026.07 ~ 현재`  
+`2026.06 ~ 현재`  
 
 **iNES Lab (가천대학교) — AI Research Intern**  
 `2026.01 ~ 2026.06`
