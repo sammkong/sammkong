@@ -1,67 +1,74 @@
-## 👋 About Me
+<div align="center">
 
-Senior in Computer Science at Gachon University.
+# AI Agent를 만들고, 더 안전한 서비스를 고민합니다.
 
-Interested in **Computer Vision**, **LLMs**, **AI Agents**, and **NLP**.
+**Multi-Modal · LLM · AI Agent**
 
-
-### Experienced in
-
-- Backend Development
-- MLOps & AI Serving
-- AWS-based AI Infrastructure
-
-
-### Activities
-
-- AI Intern at iNES Lab (Gachon University)
-- Kakao AI Ambassador (2026.03 ~ 2026.08)
+</div>
 
 ---
 
-## 🏆 Awards
+### 소개
 
-- 2025.12  
-  Gachon University Computer Science P-Project  
-  **Grand Prize (최우수상)**
+가천대학교 컴퓨터공학과에 재학 중이며, LLM과 AI Agent를 활용해 신뢰할 수 있는 서비스를 만드는 데 관심이 있습니다.
 
----
+<br>
 
-## 🛠 Tech Stack
+### 경력
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**당근 (Daangn) — Local Jobs Trust & Safety Manager (Intern)**  
+2026.06 ~
 
-### Web & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**iNES Lab (가천대학교) — AI Research Intern**  
+2026.01 ~ 2026.06
 
-### AI & LLM
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge)
+<br>
 
-### MLOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### 활동
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Kakao AI Ambassador** · 2026.03 ~ 2026.08
 
----
+<br>
 
-## 📊 GitHub Stats
+### 수상
 
-![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sammkong&show_icons=true&theme=radical)
+**가천대학교 컴퓨터공학 P-Project 최우수상** · 2025.12
 
----
+<br>
 
-## 📫 Contact
+### 기술 스택
 
-📧 Contact: kireii30@gachon.ac.kr
+**Focus**
+
+![Multi-Modal](https://img.shields.io/badge/Multi--Modal-0D1117?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-0D1117?style=flat-square)
+![AI Agent](https://img.shields.io/badge/AI_Agent-0D1117?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white)
+
+<br>
+
+### GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammkong&show_icons=true&hide_border=true&theme=transparent)
+
+</div>
+
+<br>
+
+### 연락처
+
+📧 kireii30@gachon.ac.kr
