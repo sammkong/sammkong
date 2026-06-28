@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&pause=900&color=F778BA&center=true&vCenter=true&width=900&height=130&lines=Welcome+to+MJ%27s+GitHub;AI+Agent+%26+LLM" alt="typing banner" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=sammkong&label=Profile%20Views&color=F778BA&style=flat-square)
-![Followers](https://img.shields.io/github/followers/sammkong?label=Followers&style=flat-square&color=A855F7&labelColor=0D1117)
-
 ## AI Agent를 만들고, 더 안전한 서비스를 고민합니다
 
 **AI Agent · LLM**
