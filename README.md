@@ -68,7 +68,6 @@ Multi-Modal은 앞으로 더 깊이 공부해보고 싶은 분야입니다.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sammkong&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&title_color=F778BA&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammkong&layout=compact&hide_border=true&title_color=F778BA&text_color=C9D1D9&bg_color=0D1117" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=sammkong&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
 
