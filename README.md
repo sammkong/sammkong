@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&pause=900&color=F778BA&center=true&vCenter=true&width=900&height=130&lines=Welcome+to+MJ%27s+GitHub;AI+Agent+%26+LLM" alt="typing banner" />
 
-## AI Agent를 만들고, 더 안전한 서비스를 고민합니다
+## AI를 만드는 것보다, 잘 활용되는 서비스를 고민합니다.
 
 **AI Agent · LLM**
 
@@ -14,8 +14,6 @@
 
 가천대학교 컴퓨터공학과에 재학 중입니다.  
 AI Agent를 공부하는 것을 넘어, 사용자 입장에서 더 잘 활용될 수 있도록 **신뢰를 바탕으로 한 서비스**를 고민합니다.  
-여러 번의 서비스 기획과 개발을 거치며, 이 부분을 가장 중요하게 생각하게 됐습니다.  
-Multi-Modal은 앞으로 더 깊이 공부해보고 싶은 분야입니다.
 
 <br>
 
@@ -67,9 +65,7 @@ Multi-Modal은 앞으로 더 깊이 공부해보고 싶은 분야입니다.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sammkong&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&title_color=F778BA&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=sammkong&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sammkong&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&title_color=F778BA&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
 
 </div>
 
