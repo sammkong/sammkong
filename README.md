@@ -53,8 +53,30 @@ AI Agent를 공부하는 것을 넘어,<br>
 
 | | |
 |:--|:--|
-| 🛠 <b>Role</b> | AI 서버 개발 · <b>SBERT 기반 계층형 분류</b> · <b>RabbitMQ 비동기 처리</b> · <b>MLOps 구축</b> |
+| 🛠 <b>Role</b> | AI 서버 개발 · <b>SBERT 기반 계층형 분류</b> · <b>RabbitMQ 비동기 처리</b> · <b>MLOps 파이프라인 구축</b> |
 | 📚 <b>Learned</b> | LLM과 전통 ML 모델의 역할을 분리하여 <b>안정적인 AI 서비스</b>를 설계하는 방법을 배웠습니다. |
+
+---
+
+### 🐾 [Kanana Pet Interpreter](https://github.com/sammkong/Kanana-Pet-Interpreter)
+
+> 반려동물 사진을 기반으로 감정을 해석하고 페르소나 응답을 생성하는 <b>멀티모달 AI 서비스</b>
+
+| | |
+|:--|:--|
+| 🛠 <b>Role</b> | <b>Kanana-o API 연동</b> · <b>프롬프트 엔지니어링</b> · <b>페르소나 후처리 로직 구현</b> |
+| 📚 <b>Learned</b> | 모델 성능뿐 아니라 <b>자연스럽고 몰입감 있는 사용자 경험</b>이 AI 서비스의 중요한 가치임을 배웠습니다. |
+
+---
+
+### 🧠 [SegFormer Semantic Segmentation Research](https://github.com/iNES-Segmentation-Project/segformer-core)
+
+> SegFormer-B0 기반으로 decoder 구조 변경이 semantic segmentation 성능에 미치는 영향을 분석한 <b>AI Research 프로젝트</b>
+
+| | |
+|:--|:--|
+| 🛠 <b>Role</b> | <b>PM · Research</b> · <b>FPN/MLP Decoder 구현</b> · <b>통제 실험 설계</b> · <b>Class-wise 분석</b> |
+| 📚 <b>Learned</b> | 단순 성능 향상보다 <b>통제 실험과 failure case 분석</b>을 통해 모델 개선의 실제 원인을 검증하는 과정이 중요하다는 점을 배웠습니다. |
 
 ---
 
@@ -77,17 +99,6 @@ AI Agent를 공부하는 것을 넘어,<br>
 |:--|:--|
 | 🛠 <b>Role</b> | <b>데이터 분석</b> · <b>Risk Score 설계</b> · <b>Streamlit 대시보드 개발</b> |
 | 📚 <b>Learned</b> | 단일 KPI보다 <b>여러 운영 지표를 함께 분석</b>해야 실제 문제를 정확히 파악할 수 있다는 점을 배웠습니다. |
-
----
-
-### 🐾 [Kanana Pet Interpreter](https://github.com/sammkong/Kanana-Pet-Interpreter)
-
-> 반려동물 사진을 기반으로 감정을 해석하고 페르소나 응답을 생성하는 <b>멀티모달 AI 서비스</b>
-
-| | |
-|:--|:--|
-| 🛠 <b>Role</b> | <b>Kanana-o API 연동</b> · <b>프롬프트 엔지니어링</b> · <b>페르소나 후처리 로직 구현</b> |
-| 📚 <b>Learned</b> | 모델 성능뿐 아니라 <b>자연스럽고 몰입감 있는 사용자 경험</b>이 AI 서비스의 중요한 가치임을 배웠습니다. |
 
 <br>
 
