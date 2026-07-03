@@ -33,11 +33,13 @@ AI Agent를 공부하는 것을 넘어,<br>
 
 ## 🎀 활동
 
-**Kakao AI Ambassador** · `2026.03 ~ 2026.08`
+**Kakao AI Ambassador** · `2026.03 ~ 2026.07`
 
 <br>
 
 ## 🏆 수상
+
+**Kanana-o API 우수 베타테스터 선정 (2위)** · `2026.07.03`
 
 **가천대학교 컴퓨터공학 P-Project 최우수상** · `2025.12`
 
@@ -45,7 +47,7 @@ AI Agent를 공부하는 것을 넘어,<br>
 
 ## 🚀 프로젝트
 
-### 📧 [Maily](https://github.com/sammkong/AI)
+### 📧 [Maily](https://github.com/GachonCapstone4/AI)
 
 > 업무 이메일을 자동으로 분류하고, 요약·일정 추출·답장 초안을 생성하는 <b>AI Agent 서비스</b>
 
